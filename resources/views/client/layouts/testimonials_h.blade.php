@@ -13,7 +13,6 @@
                 <div class="CB"></div>
                 <p class="name"><b>{{$rowComments->full_name}}</b><br />
                     {{$rowComments->address}} <br />
-                    {{$rowComments->address}}
                 </p>
             </div><!--end of wrapper-->
         </div><!--end of testimonials-->

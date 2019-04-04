@@ -52,13 +52,13 @@
            <div class="Con-DET">
                <strong>Country Office, Nepal</strong><br/>
                Samriddha Pahad UK<br/>
-               Chakupat-10, Lalitpur, Nepal<br />
+               Pulchowk, Lalitpur, Nepal<br />
                Phone : +977-01-5554975<br />
                Email : consulting@ndri.com.np
            </div>
            <div class="GMAP">
                {{--<img src="{{asset('public/client/uploads/images/map.jpg')}}" height="460"/>--}}
-               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2100.685242255073!2d85.3071545418192!3d27.688948342507718!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb184c19325d93%3A0xfd75bbc05531f517!2sSamriddha+Pahad+UK!5e0!3m2!1sen!2snp!4v1554317761218!5m2!1sen!2snp" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+               <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3533.2290743824897!2d85.31578231506145!3d27.679313982803524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb19ca33a50fed%3A0x9ba4ae52ef4b3161!2sNepal+Development+Research+Institute+(NDRI)!5e0!3m2!1sen!2snp!4v1554369768609!5m2!1sen!2snp" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
            </div>
            <div class="formSub">
                <strong>Submit Queries</strong>

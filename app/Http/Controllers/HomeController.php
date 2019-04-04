@@ -32,8 +32,7 @@ class HomeController extends Controller
     {
         $title ="Home | NDRI | Quality research and academic programs";
         $news =News::all();
-
-        $comments =Comments::all();
+        $comments =Comments::paginate(2);
 
         return view('client.index' ,compact('news','comments','Menus','title'));
     }
