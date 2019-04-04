@@ -1,0 +1,125 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width : 1000px){
+
+.head{width:100% !important;}
+
+.CompanyN h2{width:100% !important; font-size:20px !important;}
+
+.wrapper{width:100% !important;}
+
+.news{display:none !important;}
+
+.line{display:none !important;}
+
+.training1{width:28% !important; margin:10px 25px 10px 0 !important;}
+
+.eventBox{padding:1% !important;}
+
+
+.box1{float: left; margin-bottom:25px;
+    text-align: center;
+    width:20%; padding:1%;}
+
+.testimonial{padding:2% !important; width:96% !important;}
+
+.clip-circle img{display:none !important;}
+
+.footer{width:96% !important; padding:2% !important;}
+
+.leftContent{width:100% !important; float:none !important; }
+
+.rightContent{width:95% !important; border:none !important; padding:25px !important; }
+
+}
+
+
+@media screen and (max-width : 900px){
+
+.box1{float: left; margin-bottom:25px;
+    text-align: center;
+    width:98%; padding:1%;}
+
+.eventBox{width:98% !important;}
+
+.testimonial{width:96% !important; overflow:hidden !important; padding:2% !important; clear:both !important;}
+
+.H1{width:100% !important;}
+
+.views{width:100% !important;}
+
+.training1{width:30% !important; margin:10px 5px 10px 0 !important;}
+
+.footerMenu1{width:28% !important;}
+
+.footerMenu{width:26% !important;}
+
+.partner{width:36% !important;}
+
+.footerMenu1{width:45% !important;}
+
+.footerMenu{width:40% !important;}
+
+.partner{width:100% !important;}
+
+.footerFOrm{width:100% !important;}
+
+.leftContent ul{padding:1% !important; width:98% !important; }
+
+.content{padding:2% !important; width:96% !important; }
+
+.inner-article p{padding:2% !important; width:96% !important; border:1px solid red !important; }
+}
+
+
+@media screen and (max-width : 600px){
+.CompanyN h2{display:none !important;}
+
+.training1{width:92% !important; margin:10px 0 10px 0 !important;}
+
+.footerMenu1{width:45% !important;}
+
+.footerMenu{width:40% !important;}
+
+.partner{width:100% !important;}
+
+.BRCumb_h2{padding:1% !important; width:98% !important;}
+
+
+.H0 {font-size:20px !important;}
+
+.viewAll{float:left !important;}
+
+.rightContent{width:90% !important; padding:25px !important; }
+
+
+
+
+
+
+}
+
+
+@media screen and (max-width : 500px){ 
+
+.footerMenu{width:100% !important; margin:20px 0 0 0 !important;}
+
+.partner{width:100% !important;}
+
+.footerFOrm{width:100% !important;}
+
+.footerMenu1{width:100% !important;}
+
+.inputTEXT{width:94% !important;}
+
+.btnsubmit{width:270px !important;}
+
+
+}
+
+@media screen and (max-width : 400px){ 
+/*.left-content .news-content-box{width:40% !important; margin-top:25px !important;}*/
+
+}
+
+

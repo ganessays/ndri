@@ -1,0 +1,22 @@
+/*
+Copyright (c) 2003-2010, CKSource - Frederico Knabben. All rights reserved.
+For licensing, see LICENSE.html or http://ckeditor.com/license
+*/
+
+CKEDITOR.editorConfig = function( config )
+{
+	// Define changes to default configuration here. For example:
+	// config.language = 'fr';
+	// config.uiColor = '#AADC6E';
+          config.stylesCombo_stylesSet = 'my_styles:/js/styles.js';
+};
+
+
+// path settings
+   window.CKEDITOR = CKEDITOR;
+
+   CKEDITOR.config.resize_enabled = false; // to disable resizer in editor
+   CKEDITOR.config.filebrowserBrowseUrl = CKEDITOR.basePath+'plugins/filemanager/index.html';
+   CKEDITOR.config.filebrowserImageBrowseUrl = CKEDITOR.basePath+'plugins/filemanager/index.html?type=Images';
+   CKEDITOR.config.filebrowserUploadUrl = CKEDITOR.basePath+'plugins/filemanager/index.html';
+   CKEDITOR.config.filebrowserImageUploadUrl = CKEDITOR.basePath+'plugins/filemanager/index.html?type=Images';

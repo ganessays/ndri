@@ -1,0 +1,91 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*
+Copyright (c) 2010, bj_thulung@yahoo.com, bj.thulungrai@gmail.com! . All rights reserved.
+Code licensed under the vjth License:
+http://vjth.com.np
+*/
+html {
+	/*
+	color:#000;
+	background: url(../images/body-bg.jpg) repeat;*/
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote {
+	margin:0;
+	padding:0;
+}
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+fieldset {
+	border:0;
+	padding:0;
+}
+address, caption, cite, code, dfn, em, th, var, optgroup {
+	font-style:inherit;
+	font-weight:inherit;
+}
+del, ins {
+	text-decoration:none;
+}
+li {
+	list-style:none;/*
+	list-style:inherit;
+	list-style-position:inside;*/
+}
+caption, th {
+	text-align:left;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size:100%;
+	font-weight:normal;
+}
+q:before, q:after {
+	content:'';
+}
+abbr, acronym {
+	border:0;
+	font-variant:normal;
+}
+sup {
+	vertical-align:baseline;
+}
+sub {
+	vertical-align:baseline;
+}
+legend {
+	color:#000;
+}
+input, button, textarea, select, optgroup, option {
+	font-family:inherit;
+	font-size:inherit;
+	font-style:inherit;
+	font-weight:inherit;
+}
+input, button, textarea, select {
+*font-size:100%;
+}
+br, hr {
+	margin:0; padding:0;	border:0;
+}
+a {
+	text-decoration:none;
+}
+a img{
+	border:none;
+}
+/*a:hover {
+	text-decoration:underline;
+}*/
+.CB {
+	clear:both;
+}
+.FL{
+	float:left;	
+}
+.FR{
+	float:right;	
+}
+b{background:none;}
